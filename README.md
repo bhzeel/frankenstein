@@ -10,7 +10,7 @@
 
 In the 5th and 6th centuries, invaders, who were composed of the Angles, the Saxons, and the Jutes, set up the foundations for **Old English** with their Anglo-Saxon dialects. After the 6th century, many German "p" sounds changed to "pf". During this time, other influences were also being introuced to the growing English language, such as Swedish influences. In the years since, Swedish "sk" sounds have changed to "sh" sounds. In fact, many modern words with "sk" sounds actually come from Old Norse influences. Old Norse was introduced to English in the 8th - 11th centuries, during the Viking invasions of Englamd.
 
-Perhaphs one of the more influential invasions of England, at least in terms of language development, was the Norman Conquest of England in 1066. Modern day English shares many similar words with Latin-derived languages, such as French, which was the primary language of the Normans. They were responsible for the introduction of French and Latin words, as well as syntax, grammar and pronounciation, to the existing English language, together creating **Old English**. This language, though a root of the English we speak nowadays, would likely look more familiar to a reader if they know German, sice it actually belongs to the Germanic language family.
+Perhaphs one of the more influential invasions of England, at least in terms of language development, was the Norman Conquest of England in 1066. Modern day English shares many similar words with Latin-derived languages, such as French, which was the primary language of the Normans. They were responsible for the introduction of French and Latin words, as well as syntax, grammar and pronounciation, to the existing English language, together creating **Old English**. This language, though a root of the English we speak nowadays, would likely look more familiar to a reader if they know German, since it actually belongs to the Germanic language family.
 
 ![anglo-saxons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Anglo-Saxon_ploughmen.png/1199px-Anglo-Saxon_ploughmen.png)
 
@@ -33,4 +33,4 @@ By now, English has become a world language, spoken in different areas all over 
 
 
 --- 
-[Here](https://youtu.be/YEaSxhcns7Y) is a very quick and concise video from TED-Ed if you'd like to learn more.
+[Here](https://youtu.be/YEaSxhcns7Y) is a very quick and concise video from TED-Ed if you'd like to learn more!!
