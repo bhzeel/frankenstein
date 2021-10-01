@@ -1,32 +1,11 @@
-## Welcome to GitHub Pages
+# Where did English *really* come from?
+### Short Answer: Just About Everywhere
+---
 
-You can use the [editor on GitHub](https://github.com/bhzeel/frankenstein/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Old English: *4th -12th centuries*
+In the 5th and 6th centuries, invaders, who were composed of the Angles, the Saxons, and the Jutes, set up the foundations for **Old English** with their **Anglo-Saxon dialects**. After the 6th century, many German "p" sounds changed to "pf", though Old English words kept their "p" sound. During this time, other influences were also being introuced to the growing English language, such as Swedish influences. In the years since, Swedish "sk" sounds have changed to "sh" sounds. In fact, many modern words with "sk" sounds actually come from Old Norse influences. Old Norse was introduced to English in the 8th - 11th centuries, during the Viking invasions of Englamd. Perhaphs one of the more influential invasions of England, at least in terms of language development, was the Norman Conquest of England in 1066. Modern day English shares many similar words with Latin-derived languages, such as French, which was the primary language of the Normans
 
 ### Jekyll Themes
 
